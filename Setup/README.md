@@ -17,6 +17,10 @@
 #### Despues, abre el instalador al finalizar la descarga y se abrira una ventana, donde daremos click en "Install" de esta manera:
 ![Instalacion](./IMG/INS.png)
 
+### Nota: Te solicitara permisos de Administrador, por lo que para llevar a cabo la instalacion debes dar click en "Si".
+
+#### Al final de la instalacion aparecera la siguiente ventana y al dar click en "Close" se cerrara, y listo:
+![Fin](./IMG/FININS.png)
 
 ## Instalación y configuración de Visual Studio Code para C#.
 
