@@ -8,7 +8,8 @@
 
 ### Los pasos para instalar .NET Core son los siguientes:
 
-#### Primero entramos al siguiente [Link](https://dotnet.microsoft.com/download/dotnet-core/3.0 "Link de descarga de .NET Core")
+#### Primero entramos al siguiente [Link](https://dotnet.microsoft.com/download/dotnet-core/3.0 "Link de descarga de .NET Core"), aparecerá una pagina que se ve de la siguiente manera:
+![pag1](./IMG/PAG.png)
 
 ## Instalación y configuración de Visual Studio Code para C#.
 
