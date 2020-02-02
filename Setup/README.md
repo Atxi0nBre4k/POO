@@ -4,7 +4,7 @@
 
 ### .NET Core es un software de codigo abierto desarrollado por la Fundacion NET, pero actualmente adquirido por Microsoft.
 
-![img1](./IMG/NET1.png "Logo .NET Core")
+![img1](./IMG/NET1.png)
 
 ### Los pasos para instalar .NET Core son los siguientes:
 
