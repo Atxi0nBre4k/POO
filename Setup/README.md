@@ -11,6 +11,9 @@
 #### Primero entramos al siguiente [Link](https://dotnet.microsoft.com/download/dotnet-core/3.0 "Link de descarga de .NET Core"), aparecerá una pagina que se ve de la siguiente manera:
 ![pag1](./IMG/PAG.png)
 
+#### En esta pagina selecciona la version de acuerdo a tu sistema operativo, ya sea Linux, macOS o Windows, posteriormente te enviará a otra página del sitio confirmando que se esta llevando a cabo la descarga: 
+![pag2](./IMG/DS.png)
+
 ## Instalación y configuración de Visual Studio Code para C#.
 
 ## Instalación de git. conectado a tu cuenta de GitHub y VSC.
