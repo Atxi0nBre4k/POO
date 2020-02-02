@@ -4,11 +4,11 @@
 
 ### .NET Core es un software de codigo abierto desarrollado por la Fundacion NET, pero actualmente adquirido por Microsoft.
 
-[img1](./IMG/NET1.png)
+![img1](./IMG/NET1.png)
 
 ### Los pasos para instalar .NET Core son los siguientes:
 
-#### Primero entramos al siguiente [Core](https://dotnet.microsoft.com/download/dotnet-core/3.0 "Link")
+#### Primero entramos al siguiente [Link](https://dotnet.microsoft.com/download/dotnet-core/3.0 "Link de descarga de .NET Core")
 
 ## Instalación y configuración de Visual Studio Code para C#.
 
