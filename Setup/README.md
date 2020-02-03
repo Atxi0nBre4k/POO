@@ -82,4 +82,9 @@
 #### Quedaria de la siguiente manera:
 ![Gcf](./IMG/gcf.png)
 
+#### Por ultimo clonamos nuestro repositorio, copiando el link desde github y tecleando: git clone [url]
+
+#### De esta manera, cada que llevemos a cabo cambios desde la misma pagina de Github, Git lo clonara automaticamente, del mismo modo cuando se llevan a cabo cambios desde Visual Studio Code.
+
+
 
