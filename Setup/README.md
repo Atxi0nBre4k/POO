@@ -73,10 +73,9 @@
 #### Nuevamente "Next" y "Next" hasta llegar a la siguiente parte para dar click en "Install":
 ![g7](./IMG/G7.png)
 
-#### Y con eso ya quedaria instalado Git, pero aun queda conectarlo a nuestra cuenta de Github y Visual Studio Code, abrimos Git y tecleamos lo siguiente: git config -- global user.name "[Nombre de Usuario]"
-#### El nombre de usuario debe de estar entre comillas.
+#### Y con eso ya quedaria instalado Git, pero aun queda conectarlo a nuestra cuenta de Github y Visual Studio Code, abrimos Git y tecleamos lo siguiente: git config -- global user.name [Nombre de Usuario]
 #### Posteriormente teclearemos el correo de la siguiente forma: git config -- global user.email [Correo electronico]
-#### Nota: el --global solo lo tendremos que hacer una unica vez, posteriormente no sera necesario escribirlo.
+### Nota: el --global solo lo tendremos que hacer una unica vez, posteriormente no sera necesario escribirlo.
 
 #### Por ultimo para corroborrar que lo hicimos correctamente tecleamos: git config --list
 
