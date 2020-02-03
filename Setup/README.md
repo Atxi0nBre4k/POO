@@ -77,6 +77,10 @@
 #### El nombre de usuario debe de estar entre comillas.
 #### Posteriormente teclearemos el correo de la siguiente forma: git config -- global user.email [Correo electronico]
 #### Nota: el --global solo lo tendremos que hacer una unica vez, posteriormente no sera necesario escribirlo.
+
+#### Por ultimo para corroborrar que lo hicimos correctamente tecleamos: git config --list
+
 #### Quedaria de la siguiente manera:
+![Gcf](./IMG/gcf.png)
 
 
