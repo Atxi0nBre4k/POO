@@ -2,19 +2,25 @@
 
 namespace Pelicula
 {
-    class Peliculas
+    class Pelicula
     {
         public string titulo;
-        public int16 año;
+        public Int16 año;
         public string pais;
         public string director;
-        public void imprime()
+        
     }
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Pelicula p1 = new Pelicula();
+            p1.SetTitulo("Baby Driver");
+            p1.SetAño(2017);
+
+            Pelicula p2 = new Pelicula();
+            p1.SetTitulo("One Upon a Time in Hollywood");
+            p1.SetAño(2019);
         }
     }
 }
