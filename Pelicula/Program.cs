@@ -9,37 +9,25 @@ namespace Pelicula
         private string pais;
         private string director;
         
-        public void SetTitulo (string t)
+        public Pelicula(string titulo, Int16 año)
         {
-            titulo = t;
+            this.titulo = titulo;
+            this.año = año;
         }
-        public void SetAño (Int16 a)
+        public void imprime()
         {
-            año = a;
-        }
-
-        public string GetTitulo()
-        {
-            return titulo;
-        }
-
-        public Int16 GetAño()
-        {
-            return año;
+            Console.WriteLine("{0},({1})",titulo,año);
         }
     }
     class Program
     {
         static void Main(string[] args)
         {
-            Pelicula p1 = new Pelicula();
-            p1.SetTitulo("Baby Driver");
-            p1.SetAño(2017);
-            Console.WriteLine("{0}({1})", p1.GetTitulo(), p1.GetAño());
-            Pelicula p2 = new Pelicula();
-            p2.SetTitulo("Once Upon a Time in Hollywood");
-            p2.SetAño(2019);
-            Console.WriteLine("{0}({1})", p2.GetTitulo(), p2.GetAño());
+            Pelicula p1 = new Pelicula("Baby Driver",2017);
+            p1.imprime();
+
+            Pelicula p2 = new Pelicula("Once Upon a Time in Hollywood", 2019);
+            p2.imprime();
             
         }
     }
