@@ -8,4 +8,4 @@
 
 ### [Actividad 2:Pelicula](./Pelicula/Program.cs)
 
-### [Actividad 3:Lista de Peliculas](./Lista de peliculas/Program.cs)
+### [Actividad 3:Lista_de_Peliculas](./Lista de peliculas/Program.cs)
