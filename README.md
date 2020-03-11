@@ -6,6 +6,6 @@
 
 ### [Actividad 1](./Setup/README.md)
 
-### [Actividad 2:Pelicula](./Pelicula/Program.cs)
+### [Pelicula](./Pelicula/Program.cs)
 
-### [Actividad 3:ListadePeliculas](./Lista_de_peliculas/Program.cs)
+### [ListadePeliculas](./Lista_de_peliculas/Program.cs)
