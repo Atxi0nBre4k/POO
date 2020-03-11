@@ -73,25 +73,25 @@ namespace Pelicula
         {
             static void Main(String[] args)
             {
-                Pelicula p1 = new Pelicula ("El niño de pijama de rayas", 2008);
+                Pelicula p1 = new Pelicula ("-El niño de pijama de rayas", 2008);
                 p1.AgregarActor(new Actor ("Asa Butterfield ",1997));
                 p1.AgregarActor(new Actor ("Jack Scanlon ",1998));
                 p1.AgregarActor(new Actor ("Vera Farmiga", 1973));
                 p1.AgregarActor(new Actor ("David Thewlis", 1963));
-                Pelicula p2 = new Pelicula ("Ready Player One", 2018);
+                Pelicula p2 = new Pelicula ("-Ready Player One", 2018);
                 p2.AgregarActor(new Actor ("Tye Sheridan ", 1996));
                 p2.AgregarActor(new Actor ("Olivia Cooke", 1993));
                 p2.AgregarActor(new Actor ("Ben Mendelsohn", 1969));
                 p2.AgregarActor(new Actor ("Simon Pegg", 1970));
-                Pelicula p3 = new Pelicula ("Your name", 2016);
+                Pelicula p3 = new Pelicula ("-Your name", 2016);
                 p3.AgregarActor(new Actor ("Ryūnosuke Kamiki ", 1993));
                 p3.AgregarActor(new Actor ("Stephanie Sheh", 1977));
-                Pelicula p4 = new Pelicula ("La chica que saltaba a traves del tiempo", 2006);
+                Pelicula p4 = new Pelicula ("-La chica que saltaba a traves del tiempo", 2006);
                 p4.AgregarActor(new Actor ("Takuya Ishida ", 1987));
                 p4.AgregarActor(new Actor ("Riisa Naka", 1989));
                 p4.AgregarActor(new Actor ("Mitsutaka Itakura", 1976));
                 p4.AgregarActor(new Actor ("Yuki Sekido", 1991));
-                Pelicula p5 = new Pelicula ("1917", 2019);
+                Pelicula p5 = new Pelicula ("-1917", 2019);
                 p5.AgregarActor(new Actor ("George MacKay ", 1992));
                 p5.AgregarActor(new Actor ("Dean-Charles Chapman", 1997));
                 p5.AgregarActor(new Actor ("Richard Madden", 1986));
