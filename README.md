@@ -11,3 +11,5 @@
 ### [ListadePeliculas](./Lista_de_peliculas/Program.cs)
 
 ### [UML1](./Setup/IMG/UML1.png)
+
+### [UML2](./Setup/IMG/UML2.png)
