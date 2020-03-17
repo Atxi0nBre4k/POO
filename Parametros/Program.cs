@@ -38,6 +38,10 @@ namespace Parametros
            {
                return a + b;
            }
+           static void Suma( int x, int y, out int resta)
+           {
+               resta = a - b;
+           }
        }
        static void Main(string[] args)
        {
@@ -46,7 +50,7 @@ namespace Parametros
            int r2;
            Suma(r,x, out r2);
            Console.WriteLine(r2);
-
+           
            Persona p = new Persona();
            Console.WriteLine(p.nombre);
            Anonimo.Ocultar(p);
