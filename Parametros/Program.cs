@@ -34,22 +34,25 @@ namespace Parametros
            {
                a = a * 2;
            }
-           static int Suma(int a, int b)
+         
+           static void Sumar(int a, int b, out res)
+           {
+               res = a + b;
+           }
+             static int Sumar(int a, int b)
            {
                return a + b;
-           }
-           static void Suma( int a, int b, out int resta)
-           {
-               resta = a - b;
            }
        }
        static void Main(string[] args)
        {
-           int x = 2, y= 4;
-           int r = Suma(x,y);
+           int x = 2;
+           int  y= 4;
+           int r = Sumar(x,y);
            int r2;
-           Suma(r,x, out r2);
+           Sumar(r,x, out r2);
            Console.WriteLine(r2);
+           Console.WriteLine(suma(x,y));
            
            Persona p = new Persona();
            Console.WriteLine(p.nombre);
