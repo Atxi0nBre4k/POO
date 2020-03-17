@@ -38,7 +38,7 @@ namespace Parametros
            {
                return a + b;
            }
-           static void Suma( int x, int y, out int resta)
+           static void Suma( int a, int b, out int resta)
            {
                resta = a - b;
            }
